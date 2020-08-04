@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![AWS](https://img.shields.io/badge/-Aws-ff9900?style=flat&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+<!--![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) -->
 ![Java](https://img.shields.io/badge/-Java-f89820?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-306998?style=flat&logo=kotlin&logoColor=white)
