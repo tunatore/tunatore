@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-306998?style=flat&logo=kotlin&logoColor=white)
 
-
+**AWS Solutions Architect**  
+**Certified Kubernetes Application Developer**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://nl.linkedin.com/in/tunatore)](https://nl.linkedin.com/in/tunatore)
 
