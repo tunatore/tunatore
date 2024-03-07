@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://nl.linkedin.com/in/tunatore)](https://www.linkedin.com/in/tunatore/)
 
 <!--![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) -->
+
+![](https://komarev.com/ghpvc/?username=tunatore)
