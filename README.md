@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 <!--![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) -->
 
-![](https://komarev.com/ghpvc/?username=tunatore)
+<!--!![](https://komarev.com/ghpvc/?username=tunatore) -->
